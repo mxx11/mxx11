@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hőmérők</string>
+    <string name="tile_label">Hőmérők</string>
+    <string name="complication_label">Hőmérő</string>
+</resources>
